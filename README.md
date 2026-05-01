@@ -1,6 +1,5 @@
 # Sales_Data_Analysis_Project
 
-# 📊 Sales Data Analysis Project
 
 ## 📌 Overview
 
