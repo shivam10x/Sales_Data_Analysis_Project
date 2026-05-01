@@ -30,7 +30,7 @@ This project focuses on analyzing sales data to uncover meaningful insights, tre
 
 ## 📂 Dataset
 
-* Dataset Name: `sales_data.csv`
+* Dataset Name: `Sample - Superstore.csv`
 * Features:
 
   * Order ID
